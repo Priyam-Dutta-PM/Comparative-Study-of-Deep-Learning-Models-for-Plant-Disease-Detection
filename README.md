@@ -1,0 +1,2 @@
+# Comparative-Study-of-Deep-Learning-Models-for-Plant-Disease-Detection
+This repository presents a comparative study of three deep learning architectures for automated plant disease classification using the New Plant Diseases Dataset (Augmented). The objective is to evaluate the performance of a custom Convolutional Neural Network against two transfer learning approaches based on ResNet50 and EfficientNetB0.
