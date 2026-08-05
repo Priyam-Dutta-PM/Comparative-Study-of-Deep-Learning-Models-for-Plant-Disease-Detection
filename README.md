@@ -17,8 +17,11 @@ This repository compares three deep learning architectures for plant disease cla
 
 ## Repository Structure
 ├── Plant_Disease_Detection_ConvNet_Sequential.ipynb
+
 ├── Plant_Disease_Detection_ResNet50_TransferLearning.ipynb
+
 ├── Plant_Disease_EfficientNetB0.ipynb
+
 └── README.md
 
 ## Technologies
@@ -29,9 +32,5 @@ This repository compares three deep learning architectures for plant disease cla
 - Matplotlib
 
 ## Results
-Performance comparison of three deep learning architectures for plant disease classification. Evaluation metrics and visualizations are included in each notebook.
+The sequential model produced a baseline validation accuracy of 66%. Using a Resnet model and transfer learning improved this accuracy to almost 96%. Finally, with data engineering and image changes, the validation accuracy improved till 99%. 
 
-## Future Improvements
-- Vision Transformers (ViT)
-- Grad-CAM explainability
-- Streamlit deployment
